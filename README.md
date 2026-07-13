@@ -18,7 +18,7 @@
         <img src="https://img.shields.io/badge/EXPLORA_MIS_PROYECTOS-Artur2000LP-00F7FF?style=for-the-badge&logo=rocket&logoColor=black" height="45" />
       </a>
       <br>
-      <sub><i> Tip: Usa <b>Ctrl + Click</b> para ver mis Proyectos públicos y abrir en una nueva pestaña.</i></u>
+      <sub><i> Tip: Usa <b>Ctrl + Click</b> para ver mis proyectos públicos y abrir en una nueva pestaña.</i></u>
     </td>
     <td width="50%" valign="top" style="border: none;">
 
