@@ -14,7 +14,7 @@
   <tr>
     <td width="50%" align="center" valign="top" style="border: none;">
       <img src="https://github.com/user-attachments/assets/f5475703-5aea-4079-b844-8408b3d6623a" width="100%" />
-      <a href="https://github.com/artur2000lp"  target="_blank" rel="noopener noreferrer">
+      <a href="https://logicanegocio-arturlp.vjwzez.easypanel.host"  target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/EXPLORA_MIS_PROYECTOS-Artur2000LP-00F7FF?style=for-the-badge&logo=rocket&logoColor=black" height="45" />
       </a>
       <br>
