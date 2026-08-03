@@ -47,7 +47,7 @@ const Artur = {
 
 <div align="center">
   <h2> Projects </h2>
-  <img src="https://github.com/user-attachments/assets/1b2d2e34-92c8-4d41-82fc-5fcfd4852137" width="80%" style="border-radius: 10px;" alt="Mis Proyectos Visuales" />
+  <img src="https://github.com/user-attachments/assets/068d0345-a93d-4a55-a5ca-4c6518560417" width="80%" style="border-radius: 10px;" alt="Mis Proyectos Visuales" />
   <br>
   <a href="[](https://github.com/artur2000lp)"  target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/EXPLOR_WEB-ARTUR-00F7FF?style=for-the-badge&logo=rocket&logoColor=black" height="45" />
